@@ -2,3 +2,8 @@
   background-color: rgba(255, 0, 0, 0.5);
   font-family: 'Verdana', 'DejaVu Sans', serif;
 }
+
+#second{
+  color: rgba(0, 0, 255, 1);
+  font-size: 36px;
+}
