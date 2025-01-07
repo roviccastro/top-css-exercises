@@ -20,6 +20,11 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  flex: 1 0 100%;
+}
+
+.item{
+  width: 200px;
 }
 
 /* do not edit this footer */
