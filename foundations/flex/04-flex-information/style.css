@@ -3,6 +3,8 @@ body {
 
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
+  gap: 32px;
 }
 
 .images {
