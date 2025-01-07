@@ -43,7 +43,15 @@ body {
 
 .container{
   display: flex;
-  flex-flow: column wrap;;
+  flex-flow: row wrap;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .close-button {
