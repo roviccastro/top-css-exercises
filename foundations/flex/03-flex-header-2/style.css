@@ -58,3 +58,7 @@ ul {
 .left, .right{
   display: flex;
 }
+
+.left{
+  gap: 8px;
+}
