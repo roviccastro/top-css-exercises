@@ -41,6 +41,11 @@ body {
   flex: 0 0 auto;
 }
 
+.container{
+  display: flex;
+  flex-flow: column wrap;;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
