@@ -12,9 +12,11 @@ body {
 }
 
 .header, .footer, 
-.left-links, .right-links{
+.left-links, .right-links,
+ul, li, a{
   display: flex;
   list-style-type: none;
+  text-decoration: none;
 }
 
 .header, .footer{
