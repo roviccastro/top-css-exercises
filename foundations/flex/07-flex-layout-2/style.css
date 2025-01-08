@@ -48,7 +48,7 @@ body {
 
   display: flex;
   flex: 1 0 auto;
-  
+  padding: 16px;
 }
 
 .sidebar ul li a,
