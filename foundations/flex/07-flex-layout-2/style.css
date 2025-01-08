@@ -9,6 +9,9 @@ body {
   background: darkmagenta;
   color: white;
 
+  display: flex;
+  align-items: center;
+
   font-size: 32px;
   font-weight: 900;
   padding: 16px;
