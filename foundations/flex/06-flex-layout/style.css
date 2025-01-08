@@ -15,7 +15,11 @@ body {
 .left-links, .right-links{
   display: flex;
   list-style-type: none;
-  text-decoration: none;
+}
+
+.header, .footer{
+  justify-content: space-between;
+  padding: 10px;
 }
 
 img {
