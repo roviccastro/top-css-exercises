@@ -17,6 +17,7 @@ ul, li, a{
   display: flex;
   list-style-type: none;
   text-decoration: none;
+  color: gray;
 }
 
 .header, .footer{
