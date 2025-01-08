@@ -4,20 +4,17 @@ body {
   min-height: 100vh;
 
   display: flex;
-  flex-flow: row wrap;
-  align-content: flex-start;
+  flex-flow: column wrap;
 }
 
 .header {
   height: 72px;
-  width: 100%;
   background: darkmagenta;
   color: white;
 
   display: flex;
-  flex-flow: column wrap;
-  justify-content: center;
-  flex: 1 0 auto;
+  flex-flow: row wrap;
+  align-items: center;
 
   font-size: 32px;
   font-weight: 900;
@@ -26,6 +23,7 @@ body {
 
 .content{
   display: flex;
+  flex: auto;
 }
 
 .card-container{
