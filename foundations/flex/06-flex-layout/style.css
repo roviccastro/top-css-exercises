@@ -24,6 +24,18 @@ ul, li, a{
   padding: 10px;
 }
 
+.footer{
+  background-color: #eeeeee;
+}
+
+.left-links, .right-links{
+  gap: 10px;
+}
+
+.content{
+  align-items: center;
+}
+
 img {
   width: 600px;
 }
