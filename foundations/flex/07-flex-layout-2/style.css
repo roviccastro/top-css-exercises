@@ -50,6 +50,13 @@ body {
   flex: 1 0 auto;
 }
 
+.sidebar ul li a,
+.sidebar ul li{
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
