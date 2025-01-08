@@ -11,6 +11,13 @@ body {
   justify-content: space-between;
 }
 
+.header, .footer, 
+.left-links, .right-links{
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+}
+
 img {
   width: 600px;
 }
