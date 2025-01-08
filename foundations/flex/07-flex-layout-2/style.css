@@ -29,6 +29,7 @@ body {
 .card-container{
   display: flex;
   flex-flow: row wrap;
+  align-content: flex-start;
   padding: 48px;
 }
 
