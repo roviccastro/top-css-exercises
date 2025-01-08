@@ -48,13 +48,17 @@ body {
 
   display: flex;
   flex: 1 0 auto;
+  
 }
 
 .sidebar ul li a,
-.sidebar ul li{
+.sidebar ul li,
+.sidebar ul{
   color: white;
   text-decoration: none;
   list-style-type: none;
+  margin: 0px;
+  padding: 0px;
 }
 
 .card {
